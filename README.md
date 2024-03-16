@@ -1,0 +1,1 @@
+Use <code>npm run dev</code> on both frontend and backend to run.
